@@ -1,0 +1,6 @@
+# requirements.R
+# Install necessary packages for lncRNA mutation analysis
+
+install.packages("BiocManager")
+BiocManager::install(c("GenomicRanges", "rtracklayer", "VariantAnnotation"))
+install.packages("ggplot2")
