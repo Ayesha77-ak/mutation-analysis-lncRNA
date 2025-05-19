@@ -1,5 +1,5 @@
 # lncRNA_mutation_analysis_1000G.R
-# Author: [Your Name]
+# Author: Ayesha Ikram
 # Description: Analyzes overlaps between lncRNA regions and variant calls (VCF) from genomic data
 
 # Load libraries
